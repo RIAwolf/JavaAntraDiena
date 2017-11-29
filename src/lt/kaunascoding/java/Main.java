@@ -15,6 +15,14 @@ public class Main {
         // nuskaityti vartotojo pasirinkima
         // pagal ivesta sveika skaiciu rodyti uzduoties vykdyma
         // programa kartoja sia seka kol vartotojas neiveda 0
+
+
+        // git init
+        // git add --all
+        // git commit -m "Pirmas ikelimas"
+        // dvi komandos is github.com
+
+
         Scanner skaitytuvas = new Scanner(System.in);
         while (true) {
             System.out.println("Turime isviso 1 uzduociu");
